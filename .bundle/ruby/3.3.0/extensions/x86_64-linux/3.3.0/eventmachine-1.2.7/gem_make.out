@@ -1,0 +1,19 @@
+current directory: /home/gon/Developer/charfractal.github.io/.bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/home/gon/.rvm/rubies/ruby-3.3.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/gon/Developer/charfractal.github.io/.bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20240821-36343-b4gdsg sitelibdir\=./.gem.20240821-36343-b4gdsg clean
+
+current directory: /home/gon/Developer/charfractal.github.io/.bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20240821-36343-b4gdsg sitelibdir\=./.gem.20240821-36343-b4gdsg
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/gon/Developer/charfractal.github.io/.bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20240821-36343-b4gdsg sitelibdir\=./.gem.20240821-36343-b4gdsg install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20240821-36343-b4gdsg
+
+current directory: /home/gon/Developer/charfractal.github.io/.bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20240821-36343-b4gdsg sitelibdir\=./.gem.20240821-36343-b4gdsg clean
