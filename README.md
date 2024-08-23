@@ -1,4 +1,1 @@
-## portfolio
-
-test
-this features mt projects i have made so far
+## this is a showcase of some projects that i have made while studying graphics programming
